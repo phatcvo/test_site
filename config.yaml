@@ -55,7 +55,7 @@ params:
   aboutme:
     title: About Me
     icon: fas fa-user
-    description: My research topic of interest during my PhD includes Robust Control, Human-robot interaction, Optimization, Model Predictive Control and Reinforcement Learning in Robotics. Throughout the past years, I have worked on multiple research projects surrounding the topic of Designing Integrated Strategies for Modularized Robotics/Mobility Systems including self-driving vehicle in Uncertain Environments. My current work focuses on Motion Planning, Behavior Planning, Fleet Management in Autonomous Mobility (Delivery/Patrol Robot, AMR, AGV, AV, ...).
+    description: My research topic of interest during my PhD includes Robust Control, Human-robot interaction, Optimization, Model Predictive Control and Reinforcement Learning in Robotics. Throughout the past years, I have worked on multiple research projects surrounding the topic of Designing Integrated Strategies for Modularized Robotics/Mobility Systems including self-driving vehicle in Uncertain Environments. My current work focuses on Motion Planning, Behavior Planning, Fleet Management in Autonomous Mobility (Delivery/Patrol Robot, AMR, AGV, AV, ...)
   experience:
     title: Experiences
     icon: fas fa-briefcase
